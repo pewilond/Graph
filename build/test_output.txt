@@ -1,0 +1,28 @@
+=== Functional Tests ===
+== TestFunctionality_Basic ==
+== Basic functional tests passed.
+== TestFunctionality_DijkstraSmall ==
+== DijkstraSmall test passed.
+Functional tests completed.
+=== Performance Tests ===
+Config: vertices=5, edges=20
+[Avg Dijkstra] = 0.096449 ms, [Avg BellmanFord] = 0.347866 ms
+Config: vertices=50, edges=200
+[Avg Dijkstra] = 0.708004 ms, [Avg BellmanFord] = 4.04303 ms
+Config: vertices=100, edges=400
+[Avg Dijkstra] = 0.485718 ms, [Avg BellmanFord] = 3.21265 ms
+Config: vertices=200, edges=800
+[Avg Dijkstra] = 0.508244 ms, [Avg BellmanFord] = 6.13714 ms
+Config: vertices=500, edges=2000
+[Avg Dijkstra] = 1.99109 ms, [Avg BellmanFord] = 15.7204 ms
+Config: vertices=1000, edges=4000
+[Avg Dijkstra] = 3.44813 ms, [Avg BellmanFord] = 36.988 ms
+Config: vertices=2000, edges=8000
+[Avg Dijkstra] = 7.10248 ms, [Avg BellmanFord] = 64.5978 ms
+Config: vertices=4000, edges=16000
+[Avg Dijkstra] = 12.5188 ms, [Avg BellmanFord] = 144.192 ms
+Config: vertices=8000, edges=32000
+[Avg Dijkstra] = 33.6918 ms, [Avg BellmanFord] = 533.751 ms
+Config: vertices=16000, edges=64000
+[Avg Dijkstra] = 83.1193 ms, [Avg BellmanFord] = 1300.52 ms
+Performance tests completed. Results in results.csv

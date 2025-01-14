@@ -1,0 +1,5 @@
+/home/pewilond/vs/lab4_4/build/CMakeFiles/lab4_4.dir
+/home/pewilond/vs/lab4_4/build/CMakeFiles/edit_cache.dir
+/home/pewilond/vs/lab4_4/build/CMakeFiles/rebuild_cache.dir
+/home/pewilond/vs/lab4_4/build/CMakeFiles/lab4_4_autogen_timestamp_deps.dir
+/home/pewilond/vs/lab4_4/build/CMakeFiles/lab4_4_autogen.dir
